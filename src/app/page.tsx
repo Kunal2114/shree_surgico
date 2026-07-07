@@ -95,7 +95,7 @@ export default function HomePage() {
               Medicines delivered to your door
             </h1>
             <p className="text-gray-500 text-sm mb-4">
-              Genuine medicines · Licensed pharmacists · Fast delivery across Mumbai
+              Genuine medicines · Licensed pharmacists · Fast delivery across Bhagalpur
             </p>
             <div className="flex gap-2 flex-wrap">
               {['⚡ 30-min delivery', '✅ 100% genuine', '📋 Upload Rx online'].map(b => (
