@@ -209,7 +209,7 @@ export default function CheckoutPage() {
                   </div>
                   <div>
                     <label className="text-xs text-gray-500 font-medium block mb-1">City *</label>
-                    <input className="w-full border border-gray-200 rounded-lg px-3 py-2 text-sm focus:outline-none focus:border-green-500" defaultValue="Mumbai" />
+                    <input className="w-full border border-gray-200 rounded-lg px-3 py-2 text-sm focus:outline-none focus:border-green-500" defaultValue="Bhagalpur" />
                   </div>
                   <div>
                     <label className="text-xs text-gray-500 font-medium block mb-1">PIN code *</label>
