@@ -189,31 +189,31 @@ export default function CheckoutPage() {
                 <div className="grid grid-cols-2 gap-3">
                   <div>
                     <label className="text-xs text-gray-500 font-medium block mb-1">First name *</label>
-                    <input className="w-full border border-gray-200 rounded-lg px-3 py-2 text-sm focus:outline-none focus:border-green-500" defaultValue="Rahul" />
+                    <input className="w-full border border-gray-200 rounded-lg px-3 py-2 text-sm focus:outline-none focus:border-green-500" defaultValue="" />
                   </div>
                   <div>
                     <label className="text-xs text-gray-500 font-medium block mb-1">Last name *</label>
-                    <input className="w-full border border-gray-200 rounded-lg px-3 py-2 text-sm focus:outline-none focus:border-green-500" defaultValue="Sharma" />
+                    <input className="w-full border border-gray-200 rounded-lg px-3 py-2 text-sm focus:outline-none focus:border-green-500" defaultValue="" />
                   </div>
                   <div className="col-span-2">
                     <label className="text-xs text-gray-500 font-medium block mb-1">Mobile *</label>
-                    <input className="w-full border border-gray-200 rounded-lg px-3 py-2 text-sm focus:outline-none focus:border-green-500" defaultValue="9820012345" />
+                    <input className="w-full border border-gray-200 rounded-lg px-3 py-2 text-sm focus:outline-none focus:border-green-500" defaultValue="" />
                   </div>
                   <div className="col-span-2">
                     <label className="text-xs text-gray-500 font-medium block mb-1">Flat / Building *</label>
-                    <input className="w-full border border-gray-200 rounded-lg px-3 py-2 text-sm focus:outline-none focus:border-green-500" defaultValue="402, Sunrise Apt, Andheri East" />
+                    <input className="w-full border border-gray-200 rounded-lg px-3 py-2 text-sm focus:outline-none focus:border-green-500" defaultValue="" />
                   </div>
                   <div className="col-span-2">
                     <label className="text-xs text-gray-500 font-medium block mb-1">Area / Landmark</label>
-                    <input className="w-full border border-gray-200 rounded-lg px-3 py-2 text-sm focus:outline-none focus:border-green-500" defaultValue="Near WEH Metro, MIDC" />
+                    <input className="w-full border border-gray-200 rounded-lg px-3 py-2 text-sm focus:outline-none focus:border-green-500" defaultValue="" />
                   </div>
                   <div>
                     <label className="text-xs text-gray-500 font-medium block mb-1">City *</label>
-                    <input className="w-full border border-gray-200 rounded-lg px-3 py-2 text-sm focus:outline-none focus:border-green-500" defaultValue="Bhagalpur" />
+                    <input className="w-full border border-gray-200 rounded-lg px-3 py-2 text-sm focus:outline-none focus:border-green-500" defaultValue="" />
                   </div>
                   <div>
                     <label className="text-xs text-gray-500 font-medium block mb-1">PIN code *</label>
-                    <input className="w-full border border-gray-200 rounded-lg px-3 py-2 text-sm focus:outline-none focus:border-green-500" defaultValue="400093" />
+                    <input className="w-full border border-gray-200 rounded-lg px-3 py-2 text-sm focus:outline-none focus:border-green-500" defaultValue="" />
                   </div>
                 </div>
 
